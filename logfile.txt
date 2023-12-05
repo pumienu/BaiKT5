@@ -1,0 +1,51 @@
+[2023-12-05 16:30:54] [LOG] This is a log message.
+[2023-12-05 16:30:54] [DEBUG] This is a debug message.
+[2023-12-05 16:30:54] [INFO] This is an info message.
+[2023-12-05 16:30:54] [ERROR] This is an error message.
+[2023-12-05 16:36:00] [LOG] Thá»±c hiá»‡n phÃ©p cá»™ng ma tráº­n.
+[2023-12-05 16:36:00] [LOG] Thá»±c hiá»‡n phÃ©p trá»« ma tráº­n.
+[2023-12-05 16:36:00] [LOG] Thá»±c hiá»‡n phÃ©p nhÃ¢n ma tráº­n.
+[2023-12-05 16:36:00] [LOG] Thá»±c hiá»‡n phÃ©p chia ma tráº­n.
+[2023-12-05 16:43:04] [LOG] Th?c hi?n phép c?ng ma tr?n.
+[2023-12-05 16:43:04] [LOG] Th?c hi?n phép tr? ma tr?n.
+[2023-12-05 16:43:04] [LOG] Th?c hi?n phép nhân ma tr?n.
+[2023-12-05 16:43:04] [LOG] Th?c hi?n phép chia ma tr?n.
+[2023-12-05 16:47:15] [LOG] Th?c hi?n phép c?ng ma tr?n.
+[2023-12-05 16:47:15] [LOG] Th?c hi?n phép tr? ma tr?n.
+[2023-12-05 16:47:15] [LOG] Th?c hi?n phép nhân ma tr?n.
+[2023-12-05 16:47:15] [LOG] Th?c hi?n phép chia ma tr?n.
+[2023-12-05 16:47:15] [LOI] L?i: Chia cho 0!
+[2023-12-05 16:47:15] [LOI] L?i: Chia cho 0!
+[2023-12-05 16:53:29] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 16:53:29] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 16:53:29] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 16:53:29] [LOG] Thuc hien phep chia ma tran.
+[2023-12-05 16:54:01] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 16:54:01] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 16:54:01] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 16:54:01] [LOG] Thuc hien phep chia ma tran.
+[2023-12-05 16:54:01] [LOI] Loi: Chia cho 0!
+[2023-12-05 16:54:01] [LOI] Loi: Chia cho 0!
+[2023-12-05 16:54:24] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 16:54:24] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 16:54:24] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 16:54:24] [LOG] Thuc hien phep chia ma tran.
+[2023-12-05 16:54:24] [LOI] Loi: Chia cho 0!
+[2023-12-05 16:54:24] [LOI] Loi: Chia cho 0!
+[2023-12-05 16:54:24] [LOI] Loi: Chia cho 0!
+[2023-12-05 16:57:40] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 16:57:40] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 16:57:40] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 16:57:40] [LOG] Thuc hien phep chia ma tran.
+[2023-12-05 16:57:59] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 16:57:59] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 16:57:59] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 16:57:59] [LOG] Thuc hien phep chia ma tran.
+[2023-12-05 17:05:52] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 17:05:52] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 17:05:52] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 17:05:52] [LOG] Thuc hien phep chia ma tran.
+[2023-12-05 17:09:06] [LOG] Thuc hien phep cong ma tran.
+[2023-12-05 17:09:06] [LOG] Thuc hien phep tru ma tran.
+[2023-12-05 17:09:06] [LOG] Thuc hien phep nhan ma tran.
+[2023-12-05 17:09:06] [LOG] Thuc hien phep chia ma tran.
